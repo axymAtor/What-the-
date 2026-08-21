@@ -1,0 +1,14 @@
+# Flutter & Node
+
+.DS_Store
+build/
+.android/
+.ios/
+.packages
+.pub-cache/
+**/generated_plugin_registrant.*
+.idea/
+.vscode/
+.env
+functions/node_modules/
+functions/.env

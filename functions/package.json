@@ -1,0 +1,11 @@
+{
+  "name": "techdeck-functions",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "body-parser": "^1.20.2"
+  }
+}
